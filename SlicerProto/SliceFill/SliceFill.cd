@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SlicerProto.SliceFill.Fill">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SliceFill\Fill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SlicerProto.SliceFill.FillPart">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SliceFill\FillPart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SlicerProto.SliceFill.FillFactory">
+    <Position X="5.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAIAAAAAIAAAAAAAAEAAAAI=</HashCode>
+      <FileName>SliceFill\FillFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SlicerProto.SliceFill.HatchFillFactory">
+    <Position X="5.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SliceFill\HatchFillFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SlicerProto.SliceFill.CrossHatchFillFactory">
+    <Position X="3.75" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>SliceFill\CrossHatchFillFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SlicerProto.SliceFill.TriangleFillFactory">
+    <Position X="7.25" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SliceFill\TriangleFillFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

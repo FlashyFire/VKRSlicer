@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SlicerProto.Import.STLImporter">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAACABACAAIAAEIAAAAAAAAAAAAAAQAAggAAAAAAA=</HashCode>
+      <FileName>Import\STLImporter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SlicerProto.Import.OBJImporter">
+    <Position X="5.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAAAAggAAUAAAFAAIAAAAAAAEIAQAAAAAIgAAAAAAAA=</HashCode>
+      <FileName>Import\OBJImporter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SlicerProto.Import.ImporterFactory">
+    <Position X="0.75" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Import\ImporterFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SlicerProto.Import.IImporter">
+    <Position X="0.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Import\IImporter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

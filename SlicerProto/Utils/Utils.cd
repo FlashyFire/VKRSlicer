@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SlicerProto.Utils.ScaleHelper">
+    <Position X="4.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\ScaleHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SlicerProto.Utils.SliceHelper">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAAABAAAAACCAAAAAAAAABAAAAAAIAAgAAEAAAAAAEA=</HashCode>
+      <FileName>Utils\SliceHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SlicerProto.Utils.Tessellator">
+    <Position X="7" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Class Name="SlicerProto.Utils.Tessellator.Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Utils\Tessellator.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgEAqAIBAAAAAAFCgACABAAQJAAEAAAAAAgBQUIADIA=</HashCode>
+      <FileName>Utils\Tessellator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SlicerProto.Utils.PlanePosition">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAEAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\PlanePosition.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
